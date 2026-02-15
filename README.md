@@ -1,4 +1,4 @@
-# HTBP
+# HT Beginner Python Class
 
 ## Instructor Feedback
 
